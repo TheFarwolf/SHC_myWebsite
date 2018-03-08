@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar {
+    margin: 0 auto;
+    width: ___px;
+    text-align: center;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-left: auto;
+    margin-right: auto;
+}
