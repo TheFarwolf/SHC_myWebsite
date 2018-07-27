@@ -3,7 +3,12 @@ body {
     padding: 0;
     background-color: #CFD1CF;
 }
-p {
+.content-text {
+    
+}
+.p_ {
+    color: white;
+    margin-bottom: 20px;
     font-size: 24px;
     font-family: 'Oswald', sans-serif;
 	color: #EAEAEA;
@@ -12,7 +17,7 @@ p {
     margin: 0px;
     margin-left: 5%;
     margin-right: 5%;
-    margin-top: -20px;
+    margin-top: 0px;
 }
 h1, h2 {
     font-size: 40px;
@@ -77,10 +82,7 @@ div {
     margin-left: 15%;
     margin-right: 15%;
 }
-.p_ {
-    color: white;
-    margin-bottom: 20px;
-}
+
 .plli {
     color: white;
     margin-left: 5%;
